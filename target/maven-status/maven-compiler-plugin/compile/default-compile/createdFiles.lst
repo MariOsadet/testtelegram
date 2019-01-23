@@ -1,0 +1,5 @@
+bot/MyAmazingBot.class
+bot/RedisConnection.class
+Main.class
+redis/RedisObject.class
+redis/RedisProducer.class

@@ -1,0 +1,13 @@
+
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8°ŸÙå…-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8°ŸÙå…-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8À‰»ç„-
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(îƒœ„ýÿÿÿÿ8ò†Æç„-
+Hsquid:S1481"-Remove this unused "document" local variable.(Ùß)8Ø£Íè„-
+squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(’Ñ×Ñ8ØðÆç„-
+Wsquid:S1854";Remove this useless assignment to local variable "chat_id".(•¶¶Ö8óÚìè„-
+Xsquid:UnusedPrivateMethod".Remove this unused private "sendImage" method.( ð§Þ8Ø£Íè„-
+Vsquid:S1161":Add the "@Override" annotation above this method signature(’Ñ×Ñ8ØðÆç„-
+Hsquid:S1481",Remove this unused "chat_id" local variable.(•¶¶Ö8óÚìè„-
+Wsquid:S1854"<Remove this useless assignment to local variable "document".(Ùß)8Ø£Íè„-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¶¶Ö8óÚìè„-
