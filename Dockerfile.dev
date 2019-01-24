@@ -1,0 +1,5 @@
+FROM goyalzz/ubuntu-java-8-maven-docker-image:latest
+COPY pom.xml /tmp/
+COPY src /tmp/src
+WORKDIR /tmp/
+CMD ["mvn", "test"]
