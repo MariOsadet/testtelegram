@@ -52,13 +52,13 @@ public class MyAmazingBot extends TelegramLongPollingBot {
 
 
     public String getBotUsername() {
-        return "";
+        return System.getProperty("telegramToken", "");
     }
 
 
     @Override
     public String getBotToken() {
-        return "";
+        return System.getProperty("telegramName", "");
     }
 
     public void onClosing() {

@@ -6,4 +6,4 @@ before_install:
   - docker build -t testtelegram -f Dockerfile.dev .
 
 script:
-  - docker run testtelegram mvn test
+  - docker run testtelegram mvn test -DtelegramToken="$TOKEN" -DtelegramName="$NAME"
